@@ -11,3 +11,12 @@ Installation instructions [here](INSTALL.txt). The short version is: install Pyt
 ---
 
 *Disclaimer: This is not an official Google product but sample code provided for an educational purpose*
+
+---
+
+Installation
+------------
+
+- Set virtual environment with `$ python3 -m venv venv` (Why? see [Working with Matplotlib on OSX](https://matplotlib.org/faq/osx_framework.html))
+- Activate virtual environment `$ source venv/bin/activate`
+- Install libraries `(venv) $ pip install tensorflow matplotlib`
